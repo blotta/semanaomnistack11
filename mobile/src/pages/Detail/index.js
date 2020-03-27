@@ -68,11 +68,11 @@ export default function Detail() {
 
                 <View style={styles.actions}>
                     <TouchableOpacity style={styles.action} onPress={sendWhatsapp}>
-                        <Text style={styles.actionText}>WhatsApp</Text>
+                        <Text style={styles.actionText}>WhatsApp  </Text>
                     </TouchableOpacity>
 
                     <TouchableOpacity style={styles.action} onPress={sendMail}>
-                        <Text style={styles.actionText}>E-mail</Text>
+                        <Text style={styles.actionText}>E-mail </Text>
                     </TouchableOpacity>
                 </View>
             </View>
