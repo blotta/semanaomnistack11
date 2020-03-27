@@ -12,9 +12,9 @@ Be the Hero
 <br>
 ![listagem](front-03.png)
 <br>
-<div style="display: flex; justify-content: space-between; padding: 0 50px">
-<img src="mobile-01.jpg" width="46%">
-<img src="mobile-02.jpg" width="46%">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<img src="mobile-01.jpg" width="45%">
+<img src="mobile-02.jpg" width="45%">
 </div>
 
 
