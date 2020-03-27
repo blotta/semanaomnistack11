@@ -12,8 +12,10 @@ Be the Hero
 <br>
 ![listagem](front-03.png)
 <br>
-![listagem](mobile-01.jpg)
-![detalhes](mobile-02.jpg)
+<div style="display: flex; justify-content: space-between; padding: 0 50px">
+<img src="mobile-01.jpg" width="46%">
+<img src="mobile-02.jpg" width="46%">
+</div>
 
 
 # Backend
